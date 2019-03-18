@@ -19,10 +19,10 @@ params = { }
 # querystring = {'uid': 'demo', 'ukey': 'demokey'}
 response = requests.request('GET', url,params=querystring)
 
-
-
-data=response.json()  #to extract the detail from response
+data=response.json()  # to extract the detail from response
 print(data)
 
 print(type(data))
 raw_data = data['Station']
+
+print("I am Tommy 2")
