@@ -25,7 +25,7 @@ Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Predi
 
 ## Codes
 - Load Data 
-  - [Jupyter Notebook](https://github.com/supachaya2535/PM2.5-Prediction/blob/master/Code/LoadData_Province.py) 
+  - [Jupyter Notebook](https://github.com/supachaya2535/PM2.5-Prediction/blob/master/Code/Load_Data_Province.ipynb) 
 - Visualization
   - [Jupyter Notebook](https://github.com/supachaya2535/PM2.5-Prediction/blob/master/Code/Vistualization.ipynb) 
 - Prediction
