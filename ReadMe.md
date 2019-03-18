@@ -4,32 +4,29 @@ The Call for Code Global Initiative rallies developers to create practical, effe
 A curated list of resources dedicated to reinforcement learning.
 
 Maintainers:    [Supachaya Prathan](https://github.com/supachaya2535),
-                [Panuwit Polert](http://github.com/kjw0612),
-                [Natapat Karaket](http://github.com/kjw0612),
-                [Panason Manorost](http://github.com/kjw0612),
-                [Phornwitcha Somsup](http://github.com/kjw0612),
+                [Panuwit Polert](...),
+                [Natapat Karaket](...),
+                [Panason Manorost](...),
+                [Phornwitcha Somsup](...)
 
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Prediction/pulls)
 
 ## Table of Contents
-
+ - [Data] (#Data)
  - [Codes](#codes)
  - [Theory](#theory)
     - [Books](#Books)
     - [Papers / Thesis](#papers--thesis)
 
+## Data
+- [Berkeley Earth](http://berkeleyearth.lbl.gov/air-quality/local/Thailand)
 ## Codes
- - Codes for examples and exercises in Richard Sutton and Andrew Barto's Reinforcement Learning: An Introduction
-    - [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-    - [MATLAB Code](http://waxworksmath.com/Authors/N_Z/Sutton/sutton.html)
-    - [C/Lisp Code](https://webdocs.cs.ualberta.ca/~sutton/book/code/code.html)
-    - [Book](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
- - Simulation code for Reinforcement Learning Control Problems
-    - [Pole-Cart Problem](http://pages.cs.wisc.edu/~finton/poledriver.html)
-    - [Q-learning Controller](http://pages.cs.wisc.edu/~finton/qcontroller.html)
- - [MATLAB Environment and GUI for Reinforcement Learning](http://www.cs.colostate.edu/~anderson/res/rl/matlabpaper/rl.html)
+- Codes for Calling Dust API
+    - [Jupyter Notebook](...)
+    - [Python Code](...)
+- Jupyter Notebook for Dust Data Visualization 
 
 ## Theory
 
