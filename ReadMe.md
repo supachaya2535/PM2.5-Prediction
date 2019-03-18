@@ -1,16 +1,17 @@
-# PM 2.5 Prediction  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# PM 2.5 Prediction  
 
+The Call for Code Global Initiative rallies developers to create practical, effective, and high-quality applications based on cloud, data, and artificial intelligence that can have an immediate and lasting impact on humanitarian issues.
 A curated list of resources dedicated to reinforcement learning.
 
-We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
-
-Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http://github.com/kjw0612)
-
-We are looking for more contributors and maintainers!
+Maintainers:    [Supachaya Prathan](https://github.com/supachaya2535),
+                [Panuwit Polert](http://github.com/kjw0612),
+                [Natapat Karaket](http://github.com/kjw0612),
+                [Panason Manorost](http://github.com/kjw0612),
+                [Phornwitcha Somsup](http://github.com/kjw0612),
 
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
+Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Prediction/pulls)
 
 ## Table of Contents
 
