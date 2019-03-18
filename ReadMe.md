@@ -2,10 +2,11 @@
 
 The Call for Code Global Initiative rallies developers to create practical, effective, and high-quality applications based on cloud, data, and artificial intelligence that can have an immediate and lasting impact on humanitarian issues.
 A curated list of resources dedicated to reinforcement learning.
+[Call for Code 2019 : IBM](https://callforcode.org/challenge/)
 
 Maintainers:    [Supachaya Prathan](https://github.com/supachaya2535),
-                [Panuwit Polert](...),
-                [Natapat Karaket](...),
+                [Panuwit Polert](https://github.com/parkkk123),
+                [Natapat Karaket](https://github.com/cartoon2541),
                 [Panason Manorost](...),
                 [Phornwitcha Somsup](...)
 
@@ -14,7 +15,7 @@ Maintainers:    [Supachaya Prathan](https://github.com/supachaya2535),
 Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Prediction/pulls)
 
 ## Table of Contents
- - [Data] (#Data)
+ - [Data](#Data)
  - [Codes](#codes)
  - [Theory](#theory)
     - [Books](#Books)
@@ -25,13 +26,13 @@ Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Predi
 
 ## Codes
 - Load Data 
-  - [Jupyter Notebook](...) 
+  - [Jupyter Notebook](https://github.com/supachaya2535/PM2.5-Prediction/tree/master/Code/LoadData) 
 - Visualization
   - [Jupyter Notebook](...) 
 - Prediction
   - [Python Code](...)
     
-    
+
 ## Theory
 
 ### Books
