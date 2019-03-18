@@ -22,12 +22,16 @@ Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Predi
 
 ## Data
 - [Berkeley Earth](http://berkeleyearth.lbl.gov/air-quality/local/Thailand)
-## Codes
-- Codes for Calling Dust API
-    - [Jupyter Notebook](...)
-    - [Python Code](...)
-- Jupyter Notebook for Dust Data Visualization 
 
+## Codes
+- Load Data 
+  - [Jupyter Notebook](...) 
+- Visualization
+  - [Jupyter Notebook](...) 
+- Prediction
+  - [Python Code](...)
+    
+    
 ## Theory
 
 ### Books
