@@ -17,8 +17,8 @@ Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Predi
  - [Data](#Data)
  - [Codes](#codes)
  - [Theory](#theory)
-    - [Papers / Thesis](#papers--thesis)
     - [Books](#Books)
+    - [Papers / Thesis](#papers--thesis)
 
 ## Data
 - [Berkeley Earth](http://berkeleyearth.lbl.gov/air-quality/local/Thailand)
@@ -29,17 +29,17 @@ Please feel free to [pull requests](https://github.com/supachaya2535/PM2.5-Predi
 - Visualization
   - [Jupyter Notebook](https://github.com/supachaya2535/PM2.5-Prediction/blob/master/Code/Vistualization.ipynb) 
 - Prediction
-  - [Python Code] (Not here yet)
+  - [Python Code](...)
     
 
 ## Theory
 
-### Papers / Thesis
-Foundational Papers
- - Patricio Pérez, Prediction of PM2.5 concentrations several hours in advance using neural networks in Santiago, Chile, Proceedings of the IRE, 2000. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1352231099003167)
- - Rui Zhao, Short period PM2.5 prediction based on multivariate linear regression model, 2018. [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6062037/pdf/pone.0201011.pdf)
- - Jiaming Shen, M2.5 concentration prediction using times series based data mining, 2012 [[Paper]] (http://mickeystroller.github.io/resources/ML_Project_Jiaming_Shen.pdf)
-
 ### Books
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://incompleteideas.net/book/ebook/the-book.html) [[Code]](http://incompleteideas.net/book/code/code.html)
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [[Book]](http://incompleteideas.net/book/bookdraft2018jan1.pdf) [[Code]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+### Papers / Thesis
+Foundational Papers
+ - Marvin Minsky, Steps toward Artificial Intelligence, Proceedings of the IRE, 1961. [[Paper]](http://staffweb.worc.ac.uk/DrC/Courses%202010-11/Comp%203104/Tutor%20Inputs/Session%209%20Prep/Reading%20material/Minsky60steps.pdf) (discusses issues in RL such as the "credit assignment problem")
+ - Ian H. Witten, An Adaptive Optimal Controller for Discrete-Time Markov Environments, Information and Control, 1977. [[Paper]](http://www.cs.waikato.ac.nz/~ihw/papers/77-IHW-AdaptiveController.pdf) (earliest publication on temporal-difference (TD) learning rule)
+  
